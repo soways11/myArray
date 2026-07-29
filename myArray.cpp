@@ -1,3 +1,4 @@
+#include <stdexcept>
 namespace myLibrary{
     template <typename type, long long int setSize> class array{
         private:
